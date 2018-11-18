@@ -5,9 +5,11 @@
     <e p="C:\Users\ernes\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_ImageOrchestrator.242117030.00" t="ExcludeRecursive" />
     <e p="C:\Users\ernes\source\library\ImageOrchestrator" t="IncludeRecursive">
       <e p="bin" t="ExcludeRecursive" />
-      <e p="Class1.cs" t="Include" />
+      <e p="CONTRIBUTING.MD" t="Include" />
       <e p="ImageOrchestrator.sln" t="IncludeFlat" />
       <e p="Kirinnee.ImageOrchestrator.csproj" t="IncludeRecursive" />
+      <e p="LICENSE.MD" t="Include" />
+      <e p="MimeDetection.cs" t="Include" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netstandard2.0" t="Include">
@@ -16,6 +18,16 @@
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="README.MD" t="Include" />
+      <e p="Transformers" t="Include">
+        <e p="ImageTransformer.cs" t="Include" />
+        <e p="JpegOptimTransformer.cs" t="Include" />
+        <e p="PercentageResizeTransformer.cs" t="Include" />
+        <e p="PngQuantTransformer.cs" t="Include" />
+        <e p="WuQuantTransformer.cs" t="Include" />
+      </e>
+      <e p="Utility.cs" t="Include" />
+      <e p="VirtualImage.cs" t="Include" />
     </e>
   </component>
 </project>

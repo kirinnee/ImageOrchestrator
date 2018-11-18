@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <Authors>kirinnee97</Authors>
+        <Company>BigBulb Studio</Company>
+        <Description>Allow piping orchestration of image bytes, for compression and resizing.
+Requires machine to have ${PATH} access to pngquant &amp; jpegoptim binary
+</Description>
+        <Copyright>kirinnee @ 2018</Copyright>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Kirinnee.Minimage" Version="1.0.0" />
+    </ItemGroup>
+
+</Project>
